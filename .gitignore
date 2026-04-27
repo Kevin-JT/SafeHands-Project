@@ -1,1 +1,19 @@
-/target/
+# Maven
+target/
+
+# Eclipse / IntelliJ
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Test output
+test-output/
+t
