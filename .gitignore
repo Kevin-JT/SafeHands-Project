@@ -1,20 +1,18 @@
 # Maven
 target/
 
-# Eclipse / IntelliJ
-.project
-.classpath
-.settings/
-.idea/
-*.iml
+# TestNG
+test-output/
 
-# OS files
-.DS_Store
+# Eclipse
+.settings/
+.classpath
+.project
 
 # Logs
 *.log
 
-# Test output
-test-output/
-t
+# OS
+.DS_Store
+Thumbs.db
 
