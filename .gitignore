@@ -17,3 +17,4 @@ target/
 # Test output
 test-output/
 t
+.settings/
